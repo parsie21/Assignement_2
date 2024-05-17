@@ -1,6 +1,6 @@
 
 
-name: Java CI with Maven coverall_jacoco
+name: Java CI with Maven - coverall_jacoco
 
 on:
   push:

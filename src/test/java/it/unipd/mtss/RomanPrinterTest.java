@@ -7,8 +7,6 @@ package it.unipd.mtss;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-import org.mockito.MockedStatic;
-import org.mockito.Mockito;
 import org.junit.BeforeClass;
 import org.junit.Ignore;
 
